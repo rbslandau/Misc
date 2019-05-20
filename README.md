@@ -1,2 +1,2 @@
 # Misc
-Miscellaneous files
+Miscellaneous files for different purposes
